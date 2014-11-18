@@ -1,0 +1,27 @@
+{
+  "name": "utf8comapre",
+  "version": "1.0.0",
+  "description": "a simple method of comparing utf8 strings for sort functionality",
+  "license": "LGPL",
+  "private": false,
+  "keywords": [
+    "utf8",
+    "strings",
+    "sort",
+    "compare"
+  ],
+  "main": "./utf8compare.js",
+  "author": {
+    "name": "Nick Jennings",
+    "email": "nick@silverbucket.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/silverbucket/utf8compare.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/silverbucket/utf8compare/issues"
+  },
+  "homepage": "https://github.com/silverbucket/utf8compare"
+}
