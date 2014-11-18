@@ -1,6 +1,6 @@
 /*!
  * UTF8compare
- *   version 1.0.1
+ *   version 1.0.0
  *   http://github.com/silverbucket/utf8compare
  *
  * Developed and Maintained by:

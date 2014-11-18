@@ -1,6 +1,6 @@
 {
-  "name": "utf8comapre",
-  "version": "1.0.1",
+  "name": "utf8compare",
+  "version": "1.0.0",
   "description": "a simple method of comparing utf8 strings for sort functionality",
   "license": "LGPL",
   "private": false,
